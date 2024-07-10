@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\makar\\Source\\Repos\\SVD2213-2407-MAKarlowicz\\WK_1_DynArray\\WK_1_DynArray_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F5B90F5C-0808-43C7-A269-B92F27612E44}|WK_1_DynArray_Project\\WK_1_DynArray_Project.vcxproj|F:\\makar\\Source\\Repos\\SVD2213-2407-MAKarlowicz\\WK_1_DynArray\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "F:\\makar\\Source\\Repos\\SVD2213-2407-MAKarlowicz\\WK_1_DynArray\\main.cpp",
+              "RelativeDocumentMoniker": "..\\main.cpp",
+              "ToolTip": "F:\\makar\\Source\\Repos\\SVD2213-2407-MAKarlowicz\\WK_1_DynArray\\main.cpp",
+              "RelativeToolTip": "..\\main.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-03T00:45:21.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿Build started 7/4/2024 9:58:20 AM.
+Logging verbosity is set to: Normal.     1>Project "F:\makar\Source\Repos\SVD2213-2407-MAKarlowicz\WK_1_DynArray\WK_1_DynArray_Project\WK_1_DynArray_Project\WK_1_DynArray_Project.vcxproj" on node 2 (Build target(s)).
+     1>PrepareForBuild:
+         Structured output is enabled. The formatting of compiler diagnostics will reflect the error hierarchy. See https://aka.ms/cpp/structured-output for more details.
+       InitializeBuildStatus:
+         Creating "x64\Debug\WK_1_Dyn.f5b90f5c.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+         Touching "x64\Debug\WK_1_Dyn.f5b90f5c.tlog\unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt ..\..\main.cpp
+         main.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.39.33519\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\makar\Source\Repos\SVD2213-2407-MAKarlowicz\WK_1_DynArray\WK_1_DynArray_Project\x64\Debug\WK_1_DynArray_Project.exe" /INCREMENTAL /ILK:"x64\Debug\WK_1_DynArray_Project.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\makar\Source\Repos\SVD2213-2407-MAKarlowicz\WK_1_DynArray\WK_1_DynArray_Project\x64\Debug\WK_1_DynArray_Project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\makar\Source\Repos\SVD2213-2407-MAKarlowicz\WK_1_DynArray\WK_1_DynArray_Project\x64\Debug\WK_1_DynArray_Project.lib" /MACHINE:X64 x64\Debug\main.obj
+         WK_1_DynArray_Project.vcxproj -> F:\makar\Source\Repos\SVD2213-2407-MAKarlowicz\WK_1_DynArray\WK_1_DynArray_Project\x64\Debug\WK_1_DynArray_Project.exe
+       FinalizeBuildStatus:
+         Deleting file "x64\Debug\WK_1_Dyn.f5b90f5c.tlog\unsuccessfulbuild".
+         Touching "x64\Debug\WK_1_Dyn.f5b90f5c.tlog\WK_1_DynArray_Project.lastbuildstate".
+     1>Done Building Project "F:\makar\Source\Repos\SVD2213-2407-MAKarlowicz\WK_1_DynArray\WK_1_DynArray_Project\WK_1_DynArray_Project\WK_1_DynArray_Project.vcxproj" (Build target(s)).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:06.48
